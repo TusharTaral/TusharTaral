@@ -5,7 +5,7 @@
 
 - Hi, I am Full Stack Web Developer skilled in React, Javascript, Material-UI, CSS, HTML,Express js , Node.js, MongoDB and Data Structures and Algorithm.
 
-- 🔭 Currently looking for opportunities as a MERN Stack developer to help me learn and grow as a web developer
+- seedling  Currently looking for opportunities as a MERN Stack developer to help me learn and grow as a web developer
 
 <h3 align="center">
 Profiencies
