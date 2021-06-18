@@ -18,3 +18,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TusharTaral&show_icons=true&theme=buefy&card_height=20)](https://github.com/TusharTaral/github-readme-stats)
 
 
+<p align="center">
+  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+</p>
