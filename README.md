@@ -10,4 +10,4 @@
 
 
 
-![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=TusharTaral&show_icons=true&theme=buefy)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TusharTaral&show_icons=true&theme=buefy&card_height=200)](https://github.com/TusharTaral/github-readme-stats)
+![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=TusharTaral&show_icons=true&theme=buefy)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TusharTaral&show_icons=true&theme=buefy&card_height=20)](https://github.com/TusharTaral/github-readme-stats)
