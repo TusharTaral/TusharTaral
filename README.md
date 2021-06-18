@@ -7,9 +7,9 @@
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-<p align="center">
-**Profiencies**
-  </p>
+<h3 align="center">
+Profiencies
+  </h3>
   
   <p align="center">
   <img  src="https://user-images.githubusercontent.com/59872807/89734383-7827e580-da79-11ea-9840-299bc8b32335.jpg">
