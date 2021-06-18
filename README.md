@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 <p align="center">
--Profiencies
+**Profiencies**
   </p>
 
 ![alt techStack](https://user-images.githubusercontent.com/59872807/89734383-7827e580-da79-11ea-9840-299bc8b32335.jpg)
@@ -18,5 +18,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TusharTaral&show_icons=true&theme=buefy&card_height=20)](https://github.com/TusharTaral/github-readme-stats)
 
-
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/59872807/89734655-0bade600-da7b-11ea-91e3-a38a9d86eb25.jpg">
+  </p>
 
