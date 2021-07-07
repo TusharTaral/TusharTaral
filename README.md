@@ -1,4 +1,4 @@
-### Hi, I am Tushar Taral 👋
+### Hi, I am Tushar Taral 👋 
 
 **Glad To See You Here!** ✨
 
