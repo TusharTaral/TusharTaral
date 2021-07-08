@@ -19,7 +19,7 @@ Profiencies
   <img  src="https://user-images.githubusercontent.com/59872807/89734655-0bade600-da7b-11ea-91e3-a38a9d86eb25.jpg">
   </p>
 
-![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=TusharTaral&show_icons=true&theme=highcontrast)
+![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=TusharTaral&show_icons=true&theme=buefy)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TusharTaral&theme=highcontrast&fire=f7a305&ring=b0d90b&currStreakLabel=b0d90b)](https://git.io/streak-stats)
 
