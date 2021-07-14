@@ -3,7 +3,7 @@
 **Glad To See You Here!** ✨
 
 
-- Hi, I am Full Stack Web Developer skilled in React, Javascript, Material-UI, CSS, HTML,Express js , Node.js, MongoDB and Data Structures and Algorithm.
+- Hi, I am a Full Stack Web Developer skilled in React, Javascript, Material-UI, CSS, HTML, Express js, Node.js, MongoDB, and Data Structures and Algorithm.
 
 - Currently looking for opportunities as a MERN Stack developer to help me learn and grow as a web developer
 
@@ -26,7 +26,7 @@ Profiencies
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TusharTaral&show_icons=true&theme=buefy&card_height=20)](https://github.com/TusharTaral/github-readme-stats) -->
 <!-- theme buefy   (https://git.io/streak-stats) --!>
 
-
+ 
  <p align="center">
   <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
   </p>
