@@ -8,7 +8,7 @@
 - Currently looking for opportunities as a MERN Stack developer to help me learn and grow as a web developer
 
 <h3 align="center">
-Profiencies
+Profiencies 
   </h3> 
   
   <p align="center">
