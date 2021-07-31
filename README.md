@@ -25,7 +25,7 @@ Profiencies
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TusharTaral&show_icons=true&theme=buefy&card_height=20)](https://github.com/TusharTaral/github-readme-stats) -->
 <!-- theme buefy   (https://git.io/streak-stats) --!>
-
+ 
  
  <p align="center">
   <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
