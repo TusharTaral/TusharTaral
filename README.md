@@ -1,6 +1,6 @@
 ### Hi, I am Tushar Taral 👋 
 
-**Glad To See You Here!** ✨
+**Glad To See You Here!** ✨ 
 
 
 - Hi, I am a Full Stack Web Developer skilled in React, Javascript, Material-UI, CSS, HTML, Express js, Node.js, MongoDB, and Data Structures and Algorithms.
