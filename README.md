@@ -24,7 +24,7 @@ Profiencies
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TusharTaral&theme=highcontrast&fire=f7a305&ring=b0d90b&currStreakLabel=b0d90b)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TusharTaral&show_icons=true&theme=buefy&card_height=20)](https://github.com/TusharTaral/github-readme-stats) -->
-<!-- theme buefy   (https://git.io/streak-stats) --!>
+<!-- theme buefy   (https://git.io/streak-stats) --!> 
  
  
  <p align="center">
