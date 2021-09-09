@@ -5,7 +5,7 @@
 
 - Hi, I am a Full Stack Web Developer skilled in React, Javascript, Material-UI, CSS, HTML, Express js, Node.js, MongoDB, and Data Structures and Algorithms.
 
-- Currently looking for opportunities as a MERN Stack developer to help me learn and grow as a web developer
+- Currently working for Dream11 as a SDE-1
 
 <h3 align="center">
 Profiencies 
